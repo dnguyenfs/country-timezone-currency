@@ -9,6 +9,7 @@ Download the json files base on your need. I have provided the json files for th
 - JSON file for code <=> countries [code_countries.json](json/code_countries.json)
 - JSON file for timezones [timezones.json](json/timezones.json)
 - JSON file for country code <=> currencies [country-code-currency.json](json/country-code-currency.json)
+- JSON file for group country timezones [group-country-timezones.json](json/group-country-timezones.json)
 
 ## License
 
